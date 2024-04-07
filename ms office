@@ -1,0 +1,11 @@
+installation de l'office 360 gratuitement dans un ordinateur W10 W11
+###################################################################""
+
+https://www.microsoft.com/en-in/download/details.aspx?id=49117
+ou
+recherche sur sonnavigateur google download office deployer et telecharger
+
+ensuite installerdans sa machine en temps que administrateur 
+et ouvrir le dosier dans lequel on a installer avec le terminal et copier la commande :
+  << .\setup.exe /configure .\configuration-Office2021Enterprise.xml >>
+
