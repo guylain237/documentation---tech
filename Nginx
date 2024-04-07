@@ -1,4 +1,6 @@
+##################################################################"##"#
 configuration d un serveur nginx pour le deployement d un site internet
+##########################################################################
 server {
         listen 80;
         listen [::]:80;
@@ -13,6 +15,7 @@ server {
         }
 }
 
+#############################################
 creation d'un volume pour un conteneurnginx
-
+################################################
  docker run -p 80:80 -v ~/nginx/nginx.conf:/etc/nginx/conf.d/default.conf nginx
