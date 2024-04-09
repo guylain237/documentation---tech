@@ -1,0 +1,1 @@
+docker run --name mongo-kraft  -v /home/boss/bdkraft:/data/db -d mongo:latest 
