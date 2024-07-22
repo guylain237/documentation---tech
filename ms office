@@ -9,3 +9,10 @@ ensuite installerdans sa machine en temps que administrateur
 et ouvrir le dosier dans lequel on a installer avec le terminal et copier la commande :
   << .\setup.exe /configure .\configuration-Office2021Enterprise.xml >>
 
+
+
+activer son window 
+WIN + X
+TERMINAL ADMIN
+slmgr /rearm
+REDEMARRER
